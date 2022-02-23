@@ -1,0 +1,11 @@
+{
+  "name": "pay-pal",
+  "version": "1.0.0",
+  "description": "pay pal payment gate way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul kisaka barasa",
+  "license": "ISC"
+}
